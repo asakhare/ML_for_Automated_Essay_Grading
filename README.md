@@ -46,9 +46,9 @@ Read all the data from the csv input file. The input file has flowing columns:
 
       a. Geometrical features:
               
-              i. Length of the essay
+            i. Length of the essay
               
-              ii. Number of digits
+            ii. Number of digits
       
       b. Parts-of-speech features: I have calculated the number of various parts of speech words used in the essay. There are 32 parts of speech (e.g. verb, noun, adjective, etc.). Each essay will have 32 new features which represent the count of the words belonging to the specific part of speech for that essay. (package used: nltk.word_tokenize)
 
