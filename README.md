@@ -63,3 +63,8 @@ I have tested the model on the held-out testing data, and the model gives an acc
 
 7. Performance Improvement:
 Although the model gives a good performance, there are multiple ways to improve it and make the model better. Adding more geometrical features (e.g. number of punctuations, number of capitalization), performing TSNE instead of PCA for dimensionality reduction would be the measures that can be taken towards performance improvement.
+
+Author:
+Anand Sakhare
+MISM-BIDA Graduate Student | Carnegie Mellon University
+Email: asakhare@andrew.cmu.edu
